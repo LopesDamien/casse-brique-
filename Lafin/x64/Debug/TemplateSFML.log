@@ -1,0 +1,31 @@
+﻿  Brick.cpp
+c:\users\damien\source\repos\lafin\brick.h(18): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\damien\source\repos\lafin\brick.cpp(4): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  main.cpp
+c:\users\damien\source\repos\lafin\brick.h(18): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+c:\users\damien\source\repos\lafin\main.cpp(50): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\damien\source\repos\lafin\main.cpp(75): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\damien\source\repos\lafin\main.cpp(80): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\damien\source\repos\lafin\main.cpp(82): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+  TemplateSFML.vcxproj -> C:\Users\damien\source\repos\Lafin\x64\Debug\TemplateSFML.exe
